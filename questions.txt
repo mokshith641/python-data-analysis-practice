@@ -1,0 +1,57 @@
+1. What is the structure of the dataset?
+
+   * How many rows and columns are present in the salary dataset?
+
+2. Display the first few records of the dataset to understand the data structure.
+
+3. What are the unique values present in the Age column?
+
+   * How many distinct age values exist in the dataset?
+
+4. What are the different education levels of employees present in the dataset?
+
+5. How many unique job titles are present in the dataset?
+
+6. How many unique salary values exist in the dataset?
+
+7. What is the gender distribution among employees?
+
+   * Which gender has a higher number of employees?
+
+8. What is the distribution of employees across different education levels?
+
+9. How is education level distributed across genders?
+
+   * Compare the number of male and female employees in each education category.
+
+10. What are the different job titles and how frequently do they appear in the dataset?
+
+11. What is the relationship between Job Title and Education Level?
+
+    * Which education levels correspond to different job roles?
+
+12. What is the relationship between Education Level and Gender?
+
+13. How does salary vary across different education levels?
+
+14. How does salary distribution differ between genders?
+
+15. Which job titles have employees with the highest average years of experience?
+
+16. What is the average years of experience for each education level?
+
+17. How does years of experience vary between male and female employees?
+
+18. What are the unique salary values present in the dataset?
+
+19. What are the minimum, maximum, and average salary values in the dataset?
+
+20. Which job titles receive the highest average salaries?
+
+21. How does salary vary across different education levels?
+
+22. How does salary differ between male and female employees?
+
+23. What is the relationship between Salary and Years of Experience?
+
+24. Is there a correlation between salary and years of experience?
